@@ -9,12 +9,12 @@
 <body>
     <h1>O que é isso?</h1>
 
-    Eu não tenho certeza se essa página deveria estar em HTML ou não, então deixei assim mesmo.
+    <p> Eu não tenho certeza se essa página deveria estar em HTML ou não, então deixei assim mesmo.
     Segue esse "projeto" de site realizado seguindo o curso de CSS e HTML da Alura, para a construção 
-        de um site para uma barbearia fictícia.
+        de um site para uma barbearia fictícia.</p>
     Os arquivos estão separados da seguinte maneira:
     
-    <ul>fotos</ul>
+        *fotos
             todas as fotos utilizadas no site estão nessa pasta.
         *HTMLs
             *arquivos para cada página do site, com os códigos HTML
@@ -23,7 +23,7 @@
             *produtos
         *CSS
             arquivos de estilo, um apagando os estilos automáticos criados pelos navegadores e outro arquivo
-                de estilo para as três páginas.
+            de estilo para as três páginas.
     Acho que é isso, se tiverem alguma dica para melhorar qualquer coisa, digam por favor!
 </body>
 </html>
