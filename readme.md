@@ -14,7 +14,7 @@
         de um site para uma barbearia fictícia.
     Os arquivos estão separados da seguinte maneira:
     
-        *fotos
+    <li>fotos</li>
             todas as fotos utilizadas no site estão nessa pasta.
         *HTMLs
             *arquivos para cada página do site, com os códigos HTML
