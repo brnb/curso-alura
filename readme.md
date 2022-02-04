@@ -9,9 +9,9 @@
 <body>
     <h1>O que é isso?</h1>
 
-    <p> Eu não tenho certeza se essa página deveria estar em HTML ou não, então deixei assim mesmo.
+    Eu não tenho certeza se essa página deveria estar em HTML ou não, então deixei assim mesmo.
     Segue esse "projeto" de site realizado seguindo o curso de CSS e HTML da Alura, para a construção 
-        de um site para uma barbearia fictícia.</p>
+        de um site para uma barbearia fictícia.
     Os arquivos estão separados da seguinte maneira:
     
         *fotos
