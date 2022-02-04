@@ -7,7 +7,7 @@
     <title>read.me</title>
 </head>
 <body>
-    #O que é isso?
+    <h1>O que é isso?</h1>
 
     Eu não tenho certeza se essa página deveria estar em HTML ou não, então deixei assim mesmo.
     Segue esse "projeto" de site realizado seguindo o curso de CSS e HTML da Alura, para a construção 
