@@ -7,11 +7,11 @@
     <title>read.me</title>
 </head>
 <body>
-    <h1>O que é isso?</h1>
+    <h1>Barbearia Alura - Curso HTML</h1>
 
     Eu não tenho certeza se essa página deveria estar em HTML ou não, então deixei assim mesmo.
     Segue esse "projeto" de site realizado seguindo o curso de CSS e HTML da Alura, para a construção 
-        de um site para uma barbearia fictícia.
+        de um site para uma barbearia fictícia. Segue o link da barbearia: https://brnb.github.io/curso-alura/
     Os arquivos estão separados da seguinte maneira:
     
         *fotos
