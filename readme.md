@@ -11,7 +11,7 @@
 
     Eu não tenho certeza se essa página deveria estar em HTML ou não, então deixei assim mesmo.
     Segue esse "projeto" de site realizado seguindo o curso de CSS e HTML da Alura, para a construção 
-        de um site para uma barbearia fictícia. Segue o link da barbearia: <a href> https://brnb.github.io/curso-alura/ </a>
+        de um site para uma barbearia fictícia. Segue o link da barbearia: <a href="https://brnb.github.io/curso-alura/"> Barbearia Alura </a>
     Os arquivos estão separados da seguinte maneira:
     
         *fotos
